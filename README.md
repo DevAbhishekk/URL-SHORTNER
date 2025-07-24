@@ -4,12 +4,6 @@ A simple and functional **URL Shortener** built with **Node.js**, **Express**, *
 
 ---
 
-## 🚀 Live Demo
-
-> (Optional) Add your hosted URL here  
-> Example: https://urlshortner-devabhishekk.vercel.app/
-
----
 
 ## 📁 Project Structure
 
